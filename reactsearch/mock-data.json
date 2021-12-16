@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Ann Liebmann",
+    "phone": "123456x7896",
+    "email": "ann.lieb@xxx.com",
+    "policy": "336456616"
+  },
+  {
+    "id": 2,
+    "name": "Ann Summer",
+    "phone": "963852741x78963",
+    "email": "ann.summer@xxx.com",
+    "policy": "333635922"
+  },
+  {
+    "id": 3,
+    "name": "Sonja Collins",
+    "phone": "608-680-0276 x48786",
+    "email": "Vance_Walter@hotmail.com",
+    "policy": "988214701"
+  },
+  {
+    "id": 4,
+    "name": "Tara Tremblay",
+    "phone": "770-386-6556 x65151",
+    "email": "Samantha54@gmail.com",
+    "policy": "337764145"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Willie Reilly",
+    "phone": "1-346-814-0743 x1549",
+    "email": "Brandyn72@gmail.com",
+    "policy": "276827389"
+  },
+  {
+    "id": 6,
+    "name": "Maureen Stroman",
+    "phone": "(611) 966-7613",
+    "email": "Virginia.Okuneva@gmail.com",
+    "policy": "559851577"
+  },
+  {
+    "id": 7,
+    "name": "Guadalupe Conn",
+    "phone": "386-776-2154 x79920",
+    "email": "Keyon26@gmail.com",
+    "policy": "737007813"
+  },
+  {
+    "id": 8,
+    "name": "Bernice Pagac",
+    "phone": "713.388.6988",
+    "email": "Monroe82@hotmail.com",
+    "policy": "328059911"
+  },
+  {
+    "id": 9,
+    "name": "Jeannette Murazik",
+    "phone": "243-338-8086 x98074",
+    "email": "Etha.DuBuque@gmail.com",
+    "policy": "054453438"
+  },
+  {
+    "id": 10,
+    "name": "Miss Josefina Brakus",
+    "phone": "1-294-542-7028",
+    "email": "Juana82@yahoo.com",
+    "policy": "85274196"
+  }
+]

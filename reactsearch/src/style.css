@@ -1,0 +1,26 @@
+h1,
+p {
+  font-family: Lato;
+  color: black;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  text-align: left;
+  width: 45rem;
+  padding-left: 10px;
+  border: black ridge 1px;
+  border-radius: 1px;
+}
+
+.search-bar {
+  width: 35rem;
+  margin: 3px;
+  padding-left: 12px;
+}
